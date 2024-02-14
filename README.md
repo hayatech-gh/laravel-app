@@ -1,6 +1,6 @@
 ## 家計簿アプリ<br>![スクリーンショット 2024-02-12 21 58 40](https://github.com/Haya0502/sample-app/assets/100024971/76e484be-b521-475c-a731-38decb3e7726)
 
-2月12日(月)<br>
+2024/02/12<br>
 9割完成。<br>
 更新ページで値を変更し、更新ボタンを押してもページが遷移しないため、要修正。<br>
 学習教材：https://www.youtube.com/watch?v=_xl_FefiAfQ 
